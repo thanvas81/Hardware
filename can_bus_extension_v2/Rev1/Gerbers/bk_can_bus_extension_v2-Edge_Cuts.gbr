@@ -1,0 +1,23 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.0-rc2-6-ga1fa0bdb0b*
+G04 #@! TF.CreationDate,2025-01-23T13:26:01+02:00*
+G04 #@! TF.ProjectId,bk_can_bus_extension_v2,626b5f63-616e-45f6-9275-735f65787465,Rev 4*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0-rc2-6-ga1fa0bdb0b) date 2025-01-23 13:26:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X129050000Y-70850000D02*
+X194050000Y-70850000D01*
+X194050000Y-135050000D01*
+X129050000Y-135050000D01*
+X129050000Y-70850000D01*
+M02*
