@@ -1,0 +1,11 @@
+# Files
+*.htm
+*.OutJob
+*.log
+*.SchLib
+*.PcbLib
+
+# Folders
+History/
+Outputs/
+__Previews/

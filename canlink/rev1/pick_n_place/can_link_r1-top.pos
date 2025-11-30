@@ -1,0 +1,38 @@
+### Footprint positions - created on 2025-03-10T13:47:25+0200 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                           Package                                                   PosX       PosY       Rot  Side
+C1        0.1u                          C_0603_1608Metric                                      20.0060    36.1902   90.0000  top
+C2        18pF                          C_0603_1608Metric                                      13.2360    27.5352   90.0000  top
+C3        0.1u                          C_0603_1608Metric                                      33.0060    29.1152  -90.0000  top
+C4        0.1u                          C_0603_1608Metric                                      15.1010    19.2152    0.0000  top
+C5        1u                            C_0603_1608Metric                                      15.1260    20.8152    0.0000  top
+C6        18pF                          C_0603_1608Metric                                      13.2360    30.7652  -90.0000  top
+C10       10u                           C_0805_2012Metric                                      35.0060    28.9402  -90.0000  top
+D1        LED_Small_Filled              LED_0603_1608Metric                                    16.2310     0.3652  180.0000  top
+D3        3.3V                          D_SOD-123                                              35.9560    17.2902  180.0000  top
+D4        3.3V                          D_SOD-123                                              30.7310    17.2902    0.0000  top
+FID1      Fiducial                      Fiducial_1mm_Mask2mm                                    0.0000     0.0000    0.0000  top
+FID2      Fiducial                      Fiducial_1mm_Mask2mm                                   56.0324    59.6138    0.0000  top
+FID3      Fiducial                      Fiducial_1mm_Mask2mm                                    0.0508    59.5376    0.0000  top
+J1        BK4000TG_Upper_Board_Signals  PinSocket_2x09_P2.54mm_Vertical                        55.9110    39.4472  -90.0000  top
+J2        BK4000TG_Upper_Board_Supply   PinSocket_1x02_P2.54mm_Vertical                        55.9110    35.9412  -90.0000  top
+J3        Conn_02x05_Odd_Even           Molex_Mini-Fit_Jr_5569-10A2_2x05_P4.20mm_Horizontal    38.5810     3.8402  180.0000  top
+R1        0R                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder            45.3660    35.7002  180.0000  top
+R2        150R                          R_0603_1608Metric                                      12.9560     0.4052    0.0000  top
+R4        15K                           R_0603_1608Metric                                      18.3560    36.1902  -90.0000  top
+R14       120R                          R_0805_2012Metric                                      16.5560     6.7402  -90.0000  top
+R15       10K                           R_0603_1608Metric                                      36.7560    15.2402    0.0000  top
+R16       10K                           R_0603_1608Metric                                      36.7560    19.3902  180.0000  top
+R17       10K                           R_0603_1608Metric                                      30.0810    19.3902    0.0000  top
+R18       10K                           R_0603_1608Metric                                      29.9310    15.2402  180.0000  top
+R19       10K                           R_0603_1608Metric                                      25.0810    14.4652    0.0000  top
+R20       120K                          R_0603_1608Metric                                      25.0810    12.8152  180.0000  top
+R21       100K                          R_0603_1608Metric                                      47.8060    30.1402    0.0000  top
+U1        PUMH10,115                    SOT-363_SC-70-6                                        14.5060     2.7902    0.0000  top
+U2        SIP32510                      TSOT-23-6                                              48.1435    32.7402    0.0000  top
+U3        PIC18LF26K83-I/SS             SSOP-28_5.3x10.2mm_P0.65mm                             26.5060    30.8902    0.0000  top
+U4        TCAN3413DR                    SOIC-8_3.9x4.9mm_P1.27mm                               14.9010    14.4752  -90.0000  top
+Y1        12MHz                         Crystal_SMD_5032-2Pin_5.0x3.2mm                        16.2460    29.1502  -90.0000  top
+## End

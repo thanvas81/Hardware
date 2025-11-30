@@ -1,0 +1,77 @@
+{
+    "meta": {
+        "version": 0,
+        "filename": "qa_dblib.kicad_dbl"
+    },
+    "name": "QA Database",
+    "description": "A database for testing purposes",
+    "source": {
+        "type": "odbc",
+        "dsn": "",
+        "username": "BKtelemadmin",
+        "password": "!bkT3l3m4dm1m1@3$56*8;",
+        "timeout_seconds": 3,
+        "connection_string": "Driver={ODBC Driver 17 for SQL Server};Server=192.168.1.3,3883\\CSBK;Database=Kicad;User Id=BKtelemadmin;Password=!bkT3l3m4dm1m1@3$56*8;"
+    },
+    "libraries": [
+        {
+            "name": "MOSFET",
+            "table": "MOSFET",
+            "key": "Part ID",
+            "symbols": "Symbols",
+            "footprints": "Footprints",
+            "fields": [
+                {
+                    "column": "Manufacturer",
+                    "name": "Manufacturer",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false,
+                    "show_name": true
+                },
+                {
+                    "column": "PartNumber",
+                    "name": "PartNumber",
+                    "visible_on_add": false,
+                    "visible_in_chooser": true
+                    ,
+                    "show_name": true
+                },
+                {
+                    "column": "Footprint",
+                    "name": "Footprint",
+                    "visible_on_add": true,
+                    "visible_in_chooser": true
+                },
+                {
+                    "column": "ID",
+                    "name": "ID",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "RDS",
+                    "name": "RDS",
+                    "visible_on_add": false,
+                    "visible_in_chooser": false
+                },
+                {
+                    "column": "Type",
+                    "name": "Type",
+                    "visible_on_add": true,
+                    "visible_in_chooser": false,
+                    "show_name": true
+                },
+				{
+                    "column": "VDS",
+                    "name": "VDS",
+                    "visible_on_add": true,
+                    "visible_in_chooser": false,
+                    "show_name": true
+                }
+            ],
+            "properties": {
+                "description": "Description"
+            }
+        }
+    ]
+}

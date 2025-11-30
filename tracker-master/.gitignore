@@ -1,0 +1,52 @@
+# KiCad backup and autosave
+*.bak
+*.kicad_prl
+*.tmp
+*~
+_freerouting.log
+
+# Schematic and PCB backup files
+*.sch-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Cache and intermediate files
+*-cache.lib
+*-rescue.lib
+*.net
+*.xml
+
+# Export files
+*.gbr
+*.drl
+*.pos
+*.rpt
+*.bom
+*.csv
+
+# User-specific settings
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+fp-info-cache
+sym-lib-table-bak
+fp-lib-table-bak
+
+# Autosave
+*.autosave
+
+# Simulation
+*.raw
+*.log
+*.cir
+*.out
+
+# 3D model build artifacts
+*.wrl
+*.step
+*.stp
+
+# OS / Editor cruft
+.DS_Store
+Thumbs.db
+*-backups/

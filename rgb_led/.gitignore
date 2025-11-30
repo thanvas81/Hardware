@@ -1,0 +1,70 @@
+# KiCad project files to ignore
+
+# Backup and autosave files
+*.bak
+*.tmp
+*.tmp.*
+*.save
+*.autosave
+*.kicad_pcb-bak
+*.sch-bak
+*.pcb-bak
+*.bak.*
+*-save.kicad_pcb
+*-save.kicad_sch
+*-backups/
+*-autosave.*
+
+# Simulation files
+*.raw
+*.log
+*.out
+*.cir
+*.cmd
+*.spice
+
+# Generated/cache files
+*.cache
+*.xml
+*.kicad_prl
+*.fpr_cache
+fp-info-cache
+*-cache.lib
+*-rescue.*
+sym-lib-table-bak
+
+# Gerber and fabrication output
+*.gbr
+*.gbo
+*.gbp
+*.gbs
+*.gbl
+*.gtl
+*.gts
+*.gto
+*.gtp
+*.gml
+*.xln
+*.drl
+*.zip
+*-archive.zip
+
+# Schematic symbol and footprint library backups
+*.lib-bak
+*.mod-bak
+
+# PCBnew exported 3D models
+*.wrl
+*.step
+*.stp
+
+# Python plugins and extensions
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor settings
+.vscode/
+
+# macOS metadata
+.DS_Store

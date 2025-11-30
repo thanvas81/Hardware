@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.99.0-1891-ge2bd76bdce*%
+%TF.CreationDate,2024-11-18T13:52:10+02:00*%
+%TF.ProjectId,mini_board_relay_analog,6d696e69-5f62-46f6-9172-645f72656c61,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.99.0-1891-ge2bd76bdce) date 2024-11-18 13:52:10*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X94560000Y-85650000D02*
+X159560000Y-85650000D01*
+X159560000Y-123850000D01*
+X94560000Y-123850000D01*
+X94560000Y-85650000D01*
+M02*

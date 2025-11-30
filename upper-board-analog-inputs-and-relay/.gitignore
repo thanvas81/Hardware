@@ -1,0 +1,9 @@
+# Files
+*.htm
+*.OutJob
+*.log
+
+# Folders
+History/
+Outputs/
+__Previews/
